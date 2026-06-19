@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	defaultURL       = "https://usage.velonetics.io"
+	defaultURL       = "https://usage.pucora.io"
 	defaultExtension = ""
 
 	hashBits  uint = 20
