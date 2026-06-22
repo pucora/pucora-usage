@@ -1,5 +1,5 @@
 module github.com/pucora/pucora-usage/v2
 
-go 1.19
+go 1.25.0
 
 require github.com/catalinc/hashcash v0.0.0-20161205220751-e6bc29ff4de9
