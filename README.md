@@ -1,7 +1,7 @@
 # Pucora usage module
 An anonymous software usage reporter with proof of work.
 
-The Pucora usage is designed to collect **anonymous information** from any software and push it to a server, but it was built for Pucora. [Read the blog post](https://pucora.io/blog/building-a-telemetry-service/). You can use it with the following code in any app:
+The Pucora usage is designed to collect **anonymous information** from any software and push it to a server, but it was built for Pucora. [Read the blog post](https://pucora.in/blog/building-a-telemetry-service/). You can use it with the following code in any app:
 
 ```go
 	if err := Report(
